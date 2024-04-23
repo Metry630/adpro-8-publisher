@@ -8,3 +8,7 @@ The publisher and the subscriber are using the same message broker to communicat
 
 
 ![rabbit.png](img%2Frabbit.png)
+![Screen Shot 2024-04-23 at 11.44.38.png](img%2FScreen%20Shot%202024-04-23%20at%2011.44.38.png)
+![Screen Shot 2024-04-23 at 11.44.55.png](img%2FScreen%20Shot%202024-04-23%20at%2011.44.55.png)
+The publisher has successfully sent 5 data to the message broker.
+
